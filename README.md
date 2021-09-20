@@ -1,0 +1,1 @@
+# Amplificador_Operacional_Integrador
